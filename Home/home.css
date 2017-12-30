@@ -1,7 +1,7 @@
 .tab-container{
     position: relative;
     top: 100px;
-    left: 300px;
+    left: 11%;
 }
 #tab2 img{
     width: 118px;
@@ -11,6 +11,6 @@
 }
 #loader{
     position: relative;
-    left: 752px;
+    left: 50%;
     top: -250px;
 }

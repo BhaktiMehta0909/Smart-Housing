@@ -2,7 +2,7 @@
     width: 50%;
     position: relative;
     top: 215px;
-    left: 23%;
+    left: 27%;
     background-color: white;
     border: 2px solid rgb(234, 114,0);
     border-radius: 10px;
@@ -60,7 +60,7 @@ input[type=checkbox]{
 -webkit-justify-content : normal;
 justify-content: normal;
 margin: auto;
-padding-left: 180px;
+padding-left: 10%;
 margin-left: 105px;
 }  
 .login_btn{
@@ -81,8 +81,8 @@ margin-left: 105px;
 }
 .notification{
     width: 25px;
-    margin-left: -110px;
-    margin-right: 86px;
+    margin-left: -5%;
+    margin-right: 7%;
     position: relative;
     left: -155px;
 }
@@ -150,4 +150,12 @@ margin-left: 105px;
 }
 .bottom{
     padding-bottom: 20px;
+}
+.pad-30{
+    padding-left: 30%;
+}
+#loader{
+    position: relative;
+    top: -191px;
+    left: 42%;
 }

@@ -8,7 +8,7 @@ p{
     width: 50%;
     position: relative;
     top: 215px;
-    left: 23%;
+    left: 27%;
     background-color: white;
     border: 2px solid rgb(234, 114,0);
     border-radius: 10px;
@@ -60,7 +60,6 @@ input[type=checkbox]{
 .event-row{
     padding: 15px 0px 15px 15px;
     border: 2px solid rgb(234, 114,0);
-    overflow: auto;
 }
 /* .radio-green [type="radio"]:checked+label:after {
     border-color: rgb(234, 114,0);
@@ -151,5 +150,5 @@ input[type=checkbox]{
 #loader{
     position: relative;
     top: -90px;
-    left: 685px;
+    left: 50%;
 }
